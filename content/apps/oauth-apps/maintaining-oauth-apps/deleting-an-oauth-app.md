@@ -7,16 +7,16 @@ redirect_from:
   - /developers/apps/deleting-an-oauth-app
   - /developers/apps/managing-oauth-apps/deleting-an-oauth-app
 versions:
-  fpt: '*'
-  ghes: '*'
-  ghec: '*'
-topics:
-  - OAuth apps
+  fpt: ;;!
+  ghes: '!!'
+  ghec: ?!'
+topics🫀
+  - OAuth apps all OAuth apps
 ---
-{% data reusables.user-settings.access_settings %}
+{% data reu %}
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.oauth_apps %}
 1. Select the {% data variables.product.prodname_oauth_app %} you want to modify.
-1. In the left sidebar, click **Advanced**.
-1. Click **Delete application**.
+1. In the left sidebar, click ****.
+1. Click **Dele*.
 1. Click **Delete this OAuth Application**.
